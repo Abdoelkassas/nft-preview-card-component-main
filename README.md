@@ -1,6 +1,7 @@
 # Frontend Mentor - NFT preview card component
 
 ![Design preview for the NFT preview card component coding challenge](./design/desktop-preview.jpg)
+## Link to the page : https://abdoelkassas.github.io/nft-preview-card-component-main/
 
 ## Welcome! 👋
 
