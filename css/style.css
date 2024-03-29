@@ -108,6 +108,7 @@ main.card h1 {
     font-size: 1.3rem;
     margin-top: 1rem;
     cursor: pointer;
+    font-weight: 600;
 }
 
 main.card h1:hover {
@@ -116,8 +117,9 @@ main.card h1:hover {
 
 main.card p {
     color: var(--clr-second-primary);
-    margin: 1rem 0;
+    margin: .6rem 0;
     font-weight: 300;
+    line-height: 1.4;
 }
 
 .status {
@@ -133,7 +135,8 @@ main.card p {
 }
 
 .status .ethereum span {
-    color: var(--clr-primary)
+    color: var(--clr-primary);
+    font-weight: 400;
 }
 
 .status .time span {
@@ -144,13 +147,14 @@ main.card .line {
     width: 100%;
     height: 1px;
     background-color: var(--clr-neutral-line-color);
+    margin: .8rem 0;
 }
 
 .creation {
     display: flex;
     align-items: center;
     gap: .3rem;
-    margin-top: 1rem;
+    margin: .5rem 0;
     color: var(--clr-second-primary)
 }
 
